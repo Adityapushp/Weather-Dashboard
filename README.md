@@ -29,7 +29,7 @@ Clone the repo:
 bash
 Copy
 Edit
-[git clone https://github.com/your-username/weather-forecast-app.git](https://github.com/Adityapushp/Weather-Dashboard.git)
+(https://github.com/Adityapushp/Weather-Dashboard.git)
 bash
 Copy
 Edit
@@ -45,6 +45,9 @@ javascript
 Copy
 Edit
 const API_KEY = 'YOUR_API_KEY_HERE';
+
+
+
 🧱 Project Structure
 bash
 Copy
